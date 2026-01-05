@@ -66,6 +66,8 @@ we can now download the requirements.txt now
 ```bash
 pip3 install -r requirements.txt
 ```
+# Shell access:
+
 now we run the python script which will be easy as cake.
 
 ```bash
