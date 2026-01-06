@@ -101,7 +101,7 @@ Type commands to have them executed on the target.
 
 [*] Type 'shell' to obtain a full reverse shell (UNIX only).
 
-# shell
+#shell
 
 [*] Starting the reverse shell process
 
